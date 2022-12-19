@@ -84,8 +84,8 @@ summary(df[,-8]) # Resumen estadístico
 
 #########################   GRAFICAS   #########################   
 
-" si la variable es numérica se grafica un histograma, si la 
-variable es cualitativa se hace un diagrama de barras"
+" si la variable es cuantitativa (o numérica) se grafica un histograma, si la 
+variable es cualitativa (o categórica) se hace un diagrama de barras"
 
 for(i in seq_along(df)){
   if(is.numeric(df[,i])){
