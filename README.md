@@ -1,11 +1,11 @@
 # Postwork sesión 8. Análisis de la Inseguridad Alimentaria en México ##
 
 Equipo 2:
-Karla Adriana Alamo Martínez
-Arturo Urbieta Reyes
-Demetrio Aguilar Esteva
-Gerardo Antonio Fuentes García
-Luis Manuel Rodarte Solórzano
+- Karla Adriana Alamo Martínez
+- Arturo Urbieta Reyes
+- Demetrio Aguilar Esteva
+- Gerardo Antonio Fuentes García
+- Luis Manuel Rodarte Solórzano
 
 ## OBJETIVO
 
