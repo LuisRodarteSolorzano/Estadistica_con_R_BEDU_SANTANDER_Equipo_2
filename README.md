@@ -147,7 +147,7 @@ Una forma práctica para interpretar los efectos de los factores en la probabili
 
 - Cuanto menor es el número de años de educación del jefe de familia es mas probable que el hogar presente inseguridad alimentaria.
 
-- Los factores más influyentes en la inseguridad alimentaria son el nivel socioeconómico del hogar, el número de personas en el hogar y los años de educación del jefe de familia.
+- **Los factores más influyentes en la inseguridad alimentaria son el nivel socioeconómico del hogar, el número de personas en el hogar y los años de educación del jefe de familia.**
 
 ### CONCLUSIÓN
 **Se confirma que niveles socioeconómicos bajos tienden a gastar más en alimentos no saludables llevando al hogar a presentar inseguridad alimentaria.**
