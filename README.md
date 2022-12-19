@@ -149,7 +149,8 @@ Una forma práctica para interpretar los efectos de los factores en la probabili
 
 - Los factores más influyentes en la inseguridad alimentaria son el nivel socioeconómico del hogar, el número de personas en el hogar y los años de educación del jefe de familia.
 
-**En conclusión se confirma que niveles socioeconómicos bajos tienden a gastar más en alimentos no saludables llevando al hogar a presentar inseguridad alimentaria.**
+### CONCLUSIÓN
+**Se confirma que niveles socioeconómicos bajos tienden a gastar más en alimentos no saludables llevando al hogar a presentar inseguridad alimentaria.**
 
 
 
